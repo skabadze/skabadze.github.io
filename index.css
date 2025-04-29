@@ -11,3 +11,9 @@ p {
 body {
 	background-color: black;
 }
+
+div {
+	border-style: solid;
+	border-color: green;
+	border-radius: 10px;
+}
