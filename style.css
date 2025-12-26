@@ -1,0 +1,11 @@
+.box {
+	text-align: center;
+	padding-bottom: 700px;
+	margin: 25px;
+	border-radius: 12px;
+	background: url("./assets/city-2.jpg");
+}
+
+body {
+	background-color: #282828;
+}
